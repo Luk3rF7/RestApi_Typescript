@@ -9,8 +9,6 @@ export class MongoGetUserRepository implements IGetUsersRepository {
   .find({}) // vai buscar
   .toArray() // converte em array
 
-  user[0].
-    return [{}]
   }
 }
 
